@@ -1,0 +1,5 @@
+h1. NSXMLDeepSearch
+
+NSXMLDeepSearch is a simple category on NSXMLNode that help to search nodes in the entire graph of a node, not just children of that node. 
+
+Useful for parsing HTML :)
